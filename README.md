@@ -1,4 +1,4 @@
-# LangGraph Simple Agent
+# LangGraph Agent with Tool Integration
 
 This repository demonstrates the implementation of a simple agent using the [LangGraph](https://github.com/langchain-ai/langgraph) framework. The agent is equipped with tools from Composio, Tavily, and Google Sheets to perform various tasks.
 
